@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Raghava\\source\\repos\\dotnet-react-sample-proj\\dotnet-react-sample-proj.Server\\..\\dotnet-react-sample-proj.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
