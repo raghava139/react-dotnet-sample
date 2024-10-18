@@ -1,5 +1,5 @@
 import React from 'react';
 const TestFile = () => {
-	retun <p>testing</p>
+	return <p>Hello World</p>
 }
 export default TestFile;
